@@ -1,2 +1,7 @@
-# CarAccidentRaparaion
-11209 python school project
+# 車禍案件法院判決賠償金額視覺化
+11209 python應用實戰班專題
+## 0.找出交通案件判決
+## 1.判決結構化
+## 2.尋找相似判決
+## 3.資料視覺化
+## 4.架設網站
